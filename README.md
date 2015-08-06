@@ -4,6 +4,3 @@ License:
 
 All Ruby and Javascript code are MIT
 
-Evil Trout avatar is owned by Robin Ward and cannot be used without
-permission.
-
