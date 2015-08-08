@@ -1,4 +1,4 @@
-A plugin that adds a flag emojis to a discourse install.
+A plugin that adds flag emojis to a discourse install.
 
 License:
 
